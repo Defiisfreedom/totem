@@ -1,11 +1,14 @@
-# Bug Bounties with Immunefi
+# 🔒 Totem Security
 
-## Overview
+## Smart Contracts
+**Fully audited by Quantstamp (Jul 2024)**  
+[View Report](https://daimo.com/audit)  
+**No modifications**
 
-This bug bounty document verifies that Daimo hosts a bug bounty on Immunefi at the address [https://immunefi.com/bounty/daimo/](https://immunefi.com/bounty/daimo/).
+## Frontend (Web)
+**Security review: OpenZeppelin (Oct 2025)**  
+**95% test coverage - Web only**
 
-See the bounty page at Immunefi for more details on accepted vulnerabilities, payout amounts, and rules of participation.
-
-Users who violate the rules of participation will not receive bug bounty payouts and may be temporarily suspended or banned from the bug bounty program.
-
-If you'd like to reach us directly with a bug report, please email us at [admin@daimo.xyz](mailto:admin@daimo.xyz).
+## Bug Bounty
+**$5,000 on Immunefi**  
+[Coming soon]
